@@ -1,0 +1,57 @@
+body 
+{
+text-align: center;
+background-color: #d68649;
+border: none;
+border-radius: 5px;
+box-shadow: 0 1px 5px rgba(57, 99, 168, 0.15);
+display: block;
+font-size: 1.2rem;
+margin-bottom: 20px;
+padding: 10px;
+width: 100%;
+}
+
+
+div
+{
+        max-width: 1200px;
+        margin:  auto;
+        padding: 0 20px;
+        width: auto;
+}
+
+
+#username
+{
+      
+background-color: #f7fafc;
+border: none;
+border-radius: 5px;
+box-shadow: 0 1px 5px rgba(41, 40, 40, 0.15);
+display: block;
+font-size: 1.2rem;
+margin-bottom: 20px;
+padding: 10px;
+width: 100%;
+text-align: center
+
+
+}
+
+
+#password
+{
+
+background-color: #fcf7f7;
+border: none;
+border-radius: 5px;
+box-shadow: 0 1px 5px rgba(41, 40, 40, 0.15);
+display: block;
+font-size: 1.2rem;
+margin-bottom: 20px;
+padding: 10px;
+width: 100%;
+text-align: center
+
+}

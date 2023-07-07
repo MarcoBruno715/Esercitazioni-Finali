@@ -1,0 +1,1 @@
+document.getElementById("skills").style.color = "brown";
